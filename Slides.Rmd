@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 - This presentation is for the Developing Data Products Course Project.
 - This presentation was created using Rstudio Presenter.
-- The Shiny application pitched by this presentation is accessible here: http://127.0.0.1:4981/
+- The Shiny application pitched by this presentation is accessible here: https://samspallone.shinyapps.io/ddpcourseproject/
 - The Shiny application source code is available here: https://github.com/SamSpallone/Developing-Data-Products.git
 
 ## Purpose of the Shiny Application
